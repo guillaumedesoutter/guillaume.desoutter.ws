@@ -1,2 +1,2 @@
 # guillaume.desoutter.ws
-Code source de mon site web
+Vous trouverez ici le code source de mon site web perso : http://www.guillaume.desoutter.ws
